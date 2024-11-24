@@ -21,9 +21,9 @@ repository               : "nya520/https://nya520.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2024/11/24/pAh9b1e.jpg"
   name             : "猫羽雫"
-  pronouns         :  she"  
+  pronouns         :  she  
   bio              : "阿拜多斯"
   location         : "毕业于阿拜多斯高等学校"
   employer         : "Red Brick University"
