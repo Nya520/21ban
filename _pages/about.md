@@ -6,4 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 大家好这是梁开中心初一21班的官网
