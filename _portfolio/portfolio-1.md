@@ -1,6 +1,6 @@
 ---
 title: "作者出金枪了"
-excerpt: "Short description of portfolio item number 1<br/><img src='images/QQ20241123-113409.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='images/金枪.png'>"
 collection: portfolio
 ---
 
