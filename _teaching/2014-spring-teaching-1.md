@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "21班的实力"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "21班"
+date: 2024 11-29
+location: "广东省 梁开中学 21班"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
+学习方面
 ======
-
-Heading 3
+大家的学习方面综合来说还可以 还要加油
+德育分方面
 ======
+负分较多 超过100分的有10几个 还要加油
+品德方面
+======
+那些一下课就在哪里炒人的我不说了
