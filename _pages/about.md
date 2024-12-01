@@ -1,10 +1,10 @@
 ---
-permalink: /https://nya520.github.io/
+permalink: /
 title: "21班官网"
 author_profile: true
 redirect_from: 
-  - /about/https://nya520.github.io/
-  - /https://nya520.github.io/
+  - /about/
+  - /
 ---
 
 
