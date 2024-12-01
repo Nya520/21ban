@@ -2,9 +2,9 @@
 title: "21班的实力"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-fall-teaching-1
 venue: "21班"
-date: 2024 11-29
+date: 2024-11-29
 location: "广东省 梁开中学 21班"
 ---
 
