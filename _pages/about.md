@@ -61,3 +61,6 @@ redirect_from:
 
  - [ ] 微信:Nya_awa
  - [ ] qq:3899658412
+ - [ ] [加入qq群了解更多](https://qm.qq.com/q/2wplrEp83u)
+
+
